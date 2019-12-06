@@ -2,7 +2,7 @@
 PRODUCT_RELEASE_NAME := n8010
 
 # This is where we'd set a backup provider if we had one
-$(call inherit-product, device/samsung/n8013/n8013.mk)
+$(call inherit-product, device/samsung/n8010/n8010.mk)
 
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
