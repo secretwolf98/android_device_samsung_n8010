@@ -21,5 +21,5 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=p4notewifiue \
 	TARGET_DEVICE=p4notewifi \
-	BUILD_FINGERPRINT="samsung/p4notewifiue/p4notewifi:4.1.2/JZO54K/N8013UEUCOI1:user/release-keys" \
-	PRIVATE_BUILD_DESC="p4notewifiue-user 4.1.2 JZO54K N8013UEUCOI1 release-keys"
+	BUILD_FINGERPRINT="lineage/p4notewifiue/p4notewifi:7.1.2/NJH47F/e718ef812a:userdebug/test-keys" \
+	PRIVATE_BUILD_DESC="p4notewifiue-userdebug 7.1.2 NJH47F e718ef812a test-keys"
